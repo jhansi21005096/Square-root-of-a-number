@@ -34,7 +34,7 @@ fun(x)
 ```
 
 ## Output:
-![output](.\\sqrtoutput.png)
+![square root of a number](sqrtoutput.png)
 
 
 ## Result:
