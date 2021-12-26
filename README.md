@@ -21,8 +21,8 @@ Program to find the square root for the given number(newton's method) using func
 Developed by: K.Devi Jhansi
 RegisterNumber:  21005096
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:
+Developed by: K.Jhasi
+RegisterNumber:21005096
  def fun(x):
     b=x
     for i in range(10):
